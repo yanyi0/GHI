@@ -1,0 +1,6 @@
+framework module Pods_GHI_Tests {
+  umbrella header "Pods-GHI_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
